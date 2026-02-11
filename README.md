@@ -1,5 +1,4 @@
-# PProject
-My Adventures while learning to Code(Guess the Language- That's Right)
+# A Python-based personal finance tool built as part of my IIT Madras BS Foundation studies
 # Personal Finance & Savings Tracker 💰
 
 ## Overview
